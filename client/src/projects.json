@@ -2,41 +2,65 @@
   {
     "id": 1,
     "title": "Vibe Cannon",
-    "png": "./imgs/vibe-cannon-demo.PNG",
-    "gif": "./imgs/vibe-cannon-demo.gif",
+    "png": "thumbnails/vibe-cannon-demo.PNG",
+    "gif": "thumbnails/vibe-cannon-demo.gif",
     "github": "https://github.com/CodyYuill/Vibe-Cannon",
     "application": "https://codyyuill.github.io/Vibe-Cannon/"
   },
   {
     "id": 2,
     "title": "CodWeb",
-    "png": "./imgs/codweb-demo.PNG",
-    "gif": "./imgs/codweb-demo.gif",
+    "png": "thumbnails/codweb-demo.PNG",
+    "gif": "thumbnails/codweb-demo.gif",
     "github": "https://github.com/GuilleMGN/Group2-Project2",
     "application": "https://group2-project2.herokuapp.com/"
   },
   {
     "id": 3,
-    "title": "Vibe Cannon",
-    "png": "/imgs/vibe-cannon-demo.PNG",
-    "gif": "/imgs/vibe-cannon-demo.gif",
-    "github": "https://github.com/CodyYuill/Vibe-Cannon",
-    "application": "https://codyyuill.github.io/Vibe-Cannon/"
+    "title": "Note Taker",
+    "png": "thumbnails/note-taker-demo.PNG",
+    "gif": "thumbnails/note-taker-demo.gif",
+    "github": "https://github.com/GuilleMGN/NoteTaker",
+    "application": "https://limitless-cove-32044.herokuapp.com"
   },
   {
     "id": 4,
-    "title": "Vibe Cannon",
-    "png": "/imgs/vibe-cannon-demo.PNG",
-    "gif": "/imgs/vibe-cannon-demo.gif",
-    "github": "https://github.com/CodyYuill/Vibe-Cannon",
-    "application": "https://codyyuill.github.io/Vibe-Cannon/"
+    "title": "Eat Da Burger",
+    "png": "thumbnails/eat-da-burger-demo.PNG",
+    "gif": "thumbnails/eat-da-burger-demo.gif",
+    "github": "https://github.com/GuilleMGN/EatDaBurger",
+    "application": "https://cryptic-fjord-79089.herokuapp.com"
   },
   {
     "id": 5,
-    "title": "Vibe Cannon",
-    "png": "/imgs/vibe-cannon-demo.PNG",
-    "gif": "/imgs/vibe-cannon-demo.gif",
-    "github": "https://github.com/CodyYuill/Vibe-Cannon",
-    "application": "https://codyyuill.github.io/Vibe-Cannon/"
+    "title": "Weather Dashboard",
+    "png": "thumbnails/weather-dashboard-demo.PNG",
+    "gif": "thumbnails/weather-dashboard-demo.gif",
+    "github": "https://github.com/GuilleMGN/WeatherDashboard",
+    "application": "https://guillemgn.github.io/WeatherDashboard/"
+  },
+  {
+    "id": 6,
+    "title": "Work Day Scheduler",
+    "png": "thumbnails/work-day-scheduler-demo.PNG",
+    "gif": "thumbnails/work-day-scheduler-demo.gif",
+    "github": "https://github.com/GuilleMGN/WorkdayScheduler",
+    "application": "https://guillemgn.github.io/WorkdayScheduler/"
+  },
+  {
+    "id": 7,
+    "title": "Coding Quiz",
+    "png": "thumbnails/coding-quiz-demo.PNG",
+    "gif": "thumbnails/coding-quiz-demo.gif",
+    "github": "https://github.com/GuilleMGN/CodingQuiz",
+    "application": "https://guillemgn.github.io/CodingQuiz/index.html"
+  },
+  {
+    "id": 8,
+    "title": "README Generator",
+    "png": "thumbnails/read-me-generator-demo.PNG",
+    "gif": "thumbnails/read-me-generator-demo.gif",
+    "github": "https://github.com/GuilleMGN/ReadMeGenerator",
+    "application": "https://youtu.be/5RZFUM4IbcY"
   }
 ]

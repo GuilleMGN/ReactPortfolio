@@ -1,0 +1,12 @@
+/* PORTFOLIO PAGE */
+.port-image {
+  margin: 20px auto;  
+}
+.project-title {
+  text-align: center;
+  margin-top: 10px;
+}
+.help:hover {
+  cursor: help;
+}
+/* END PORTFOLIO PAGE */
