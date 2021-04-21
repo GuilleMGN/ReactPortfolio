@@ -1,0 +1,14 @@
+/* HTML Element Styles */
+body {
+  /* Typography */
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  /* Visual */
+  /* background-image: url("/imgs/blue-polygon.png"); */
+  background-size: cover;
+}
+html {
+  /* Positioning */
+  position: relative;
+  /* Box-model */
+  min-height: 100%;
+}
