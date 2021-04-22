@@ -8,22 +8,18 @@ import Footer from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 import "./App.css";
-import { BrowserRouter as Router, Route } from "react-router-dom";
 
 function App() {
   return (
-    <Router>
       <div className="App">
         <Navbar />
         <Wrapper>
-          <Route exact path="/ReactPortfolio/" component={About} />
-          <Route exact path="/ReactPortfolio/about" component={About} />
-          <Route exact path="/ReactPortfolio/portfolio" component={Portfolio} />
-          <Route exact path="/ReactPortfolio/contact" component={Contact} />
+          <About />
+          <Portfolio />
+          <Contact />
         </Wrapper>
         <Footer />
       </div>
-    </Router>
   );
 }
 
