@@ -1,11 +1,10 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 import Projects from "../projects.json";
 import ProjectCard from "../components/ProjectCard";
 
 class Portfolio extends Component {
     state = {
-        projects: Projects,
-        // condition: "static"
+        projects: Projects
     }
 
     render() {

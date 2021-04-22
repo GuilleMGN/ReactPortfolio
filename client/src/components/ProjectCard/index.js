@@ -3,6 +3,7 @@ import "./ProjectCard.css";
 
 function ProjectCard(props) {
   let img = props.png;
+  console.log(img);
   return (
     <div className="col-lg-6 col-md-6 col-sm-12">
       <h4 className="block-header project-title">{props.title}</h4>
