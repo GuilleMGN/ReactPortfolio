@@ -8,12 +8,6 @@ class Portfolio extends Component {
         // condition: "static"
     }
 
-    // gif = () => {
-    //     this.setState({
-    //         condition: "animate"
-    //     })
-    // }
-
     render() {
         return (
             <main className="container">

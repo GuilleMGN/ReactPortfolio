@@ -2,17 +2,13 @@ import React from "react";
 import "./ProjectCard.css";
 
 function ProjectCard(props) {
-  console.log(props.png);
   let img = props.png;
   return (
     <div className="col-lg-6 col-md-6 col-sm-12">
       <h4 className="block-header project-title">{props.title}</h4>
-      <img 
-        className="img-fluid port-image help" 
+      <img className="img-fluid port-image help" 
         src={img} 
         alt={props.title} 
-        onMouseEnter={img = props.gif}
-        onMouseLeave={img = props.png}
       />
       <br />
       <span className="block-header">Link: </span>
