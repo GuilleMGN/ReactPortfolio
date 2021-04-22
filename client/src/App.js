@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.min.js";
 import "./App.css";
-import { HashRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -16,9 +16,9 @@ function App() {
       <div className="App">
         <Navbar />
         <Wrapper>
-          <Route exact path="/" component={About} />
-          <Route exact path="/portfolio" component={Portfolio} />
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/ReactPortfolio/about" component={About} />
+          <Route exact path="/ReactPortfolio/portfolio" component={Portfolio} />
+          <Route exact path="/ReactPortfolio/contact" component={Contact} />
         </Wrapper>
         <Footer />
       </div>
