@@ -16,6 +16,7 @@ function App() {
       <div className="App">
         <Navbar />
         <Wrapper>
+          <Route exact path="/ReactPortfolio/" component={About} />
           <Route exact path="/ReactPortfolio/about" component={About} />
           <Route exact path="/ReactPortfolio/portfolio" component={Portfolio} />
           <Route exact path="/ReactPortfolio/contact" component={Contact} />
