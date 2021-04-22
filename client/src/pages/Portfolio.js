@@ -10,7 +10,7 @@ class Portfolio extends Component {
     render() {
         return (
             <main className="container">
-                <section className="row">
+                <section className="row" id="portfolio">
                     <div className="col-md-12 col-lg-12">
                         <article className="block">
                             <h1 className="block-header"><i className="far fa-images"></i> Portfolio</h1>

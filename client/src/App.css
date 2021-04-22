@@ -10,6 +10,8 @@ html {
   position: relative;
   /* Box-model */
   min-height: 100%;
+  /* Smooth scroll */
+  scroll-behavior: smooth;
 }
 /* add space for fixed nav */
 main {

@@ -4,7 +4,7 @@ import pfp from "../imgs/profile.jpg";
 function About() {
     return (
         <main className="container">
-        <section className="row">
+        <section className="row" id="about">
           <div className="col-sm-12 col-md-12 col-lg-12">
             <article className="block">
               <h1 className="about-me-header"><i className="far fa-question-circle"></i> About Me</h1>
